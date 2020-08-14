@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-GIF of the project: https://gifs.com/gif/JywROg
+GIF of the project: https://j.gifs.com/JywROg.gif
 
 ## Available Scripts
 
